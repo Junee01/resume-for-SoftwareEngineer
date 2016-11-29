@@ -9,7 +9,7 @@ This is not the only way to write your resume. But I think this sample will be u
 
 ### Sangjun Park(Junee01)
 72, Seocho-daero 40-gil, Seocho-gu, Seoul, Korea
-(82)10-9271-4555, sangjunpark0203@gmail.com, <span>blog</span>.naver.com/potter777777
+(82)10-9271-4555, <span>sangjunpark0203@</span>gmail.com, <span>blog</span>.naver.com/potter777777
 
 ### Education
 - B.A. Computer Engineering, Dongguk University(seoul, korea), 2017
