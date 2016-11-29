@@ -5,7 +5,7 @@ There are many kinds of resume but I created a sample resume written by 'Markdow
 
 This is not the only way to write your resume. But I think this sample will be useful for any positions with any company.
 
-#My resume(sample)
+#Sample
 
 ## Sangjun Park(Junee01)
 72, Seocho-daero 40-gil, Seocho-gu, Seoul, Korea
