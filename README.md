@@ -1,12 +1,7 @@
-# resume-for-SoftwareEnginner
-This repository discusses about how to make a resume for Software engineer using Markdown.
+# Resume for software engineer using Markdown.
+This repository discusses about how to make a resume for Software engineer using Markdown. There are many kinds of resume but I created a sample resume written by 'Markdown'. I think this sample will be useful for any positions within any company.
 
-There are many kinds of resume but I created a sample resume written by 'Markdown'.
-
-This is not the only way to write your resume. But I think this sample will be useful for any positions with any company.
-
-#Sample
-
+#Resume Sample
 ## Sangjun Park(Junee01)
 72, Seocho-daero 40-gil, Seocho-gu, Seoul, Korea
 (82)10-9271-4555, <span>sangjunpark0203@</span>gmail.com, <span>blog</span>.naver.com/potter777777
