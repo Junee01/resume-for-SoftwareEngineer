@@ -12,34 +12,34 @@ This is not the only way to write your resume. But I think this sample will be u
 (82)10-9271-4555, <span>sangjunpark0203@</span>gmail.com, <span>blog</span>.naver.com/potter777777
 
 ## Education
-- B.A. Computer Engineering, Dongguk University(seoul, korea), 2017
+- ***B.A. Computer Engineering, Dongguk University(seoul, korea)***, 2017
 
 ## Work Experience
-- INNOBOOST, Sep 2016 to Now
- - web publisher(Freelancer), created web pages for medical AD.
-- UNIAD, May 2016 to Jul 2016
- - Web developer(Intern), scraped meal-plan information from University web sites.
-- THINKWARE, Jun 2015 to Aug 2015
- - Intern, converted car-navigation data to pedestrian's.
+- **INNOBOOST**, Sep 2016 to Now
+ - ***web publisher(Freelancer), created web pages for medical AD.***
+- **UNIAD**, May 2016 to Jul 2016
+ - ***Web developer(Intern), scraped meal-plan information from University web sites.***
+- **THINKWARE**, Jun 2015 to Aug 2015
+ - ***Intern, converted car-navigation data to pedestrian's.***
  
 ## Skills
-- Programming Language : C, C++, C#, Java, JS, Ruby, Python, HTML, CSS, SQL
-- Open source : Ruby on Rails, Linux, Mysql, Bootstrap, Qt, jQuery
-- URL : <span>portfolio-junee01</span>.herokuapp.com/projects
+- **Programming Language** : C, C++, C#, Java, JS, Ruby, Python, HTML, CSS, SQL
+- **Open source** : Ruby on Rails, Linux, Mysql, Bootstrap, Qt, jQuery
+- **URL** : <span>portfolio-junee01</span>.herokuapp.com/projects
 
 ## Language
-- Korean : Native.
-- English : Business Level(writing, reading, listening), Basic Level(speaking)
-- Japanese : Basic Level(writing, reading, listening, speaking)
+- **Korean** : Native.
+- **English** : Business Level(writing, reading, listening), Basic Level(speaking)
+- **Japanese** : Basic Level(writing, reading, listening, speaking)
 
 ## Honors and Awards
 - Leaders in Industry-University Cooperation Creative Contents c3, 3rd Prize, Jan 2016
 - Dongguk University, Computer Science Design Competition, 2nd Prize, Dec 2015
 
 ## Extracurricular Activities
-- Computer Club (DNA), Mar 2011 to Jan 2016
-- TA in Code School (Open College), Dec 2015 to Mar 2016
-- Volunteer teaching Korean to foreigners (Haram), Sep 2014 to Aug 2015
-- Mentoring Program (Jump Hackers), Sep 2014 to Oct 2014
-- Auction house helper (WeAJa), Oct 2014 to Oct 2014
-- Military Service (Defense Communication Command), Jan 2012 to Oct 2013
+- **Computer Club (DNA)**, Mar 2011 to Jan 2016
+- **TA in Code School (Open College)**, Dec 2015 to Mar 2016
+- **Volunteer teaching Korean to foreigners (Haram)**, Sep 2014 to Aug 2015
+- **Mentoring Program (Jump Hackers)**, Sep 2014 to Oct 2014
+- **Auction house helper (WeAJa)**, Oct 2014 to Oct 2014
+- **Military Service (Defense Communication Command)**, Jan 2012 to Oct 2013
