@@ -33,8 +33,8 @@ This is not the only way to write your resume. But I think this sample will be u
 - **Japanese** : Basic Level(writing, reading, listening, speaking)
 
 ## Honors and Awards
-- Creative Contents c3, 3rd Prize, Jan 2016
-- Computer Science Design Competition, 2nd Prize, Dec 2015
+- **Creative Contents c3**, 3rd Prize, Jan 2016
+- **Computer Science Design Competition**, 2nd Prize, Dec 2015
 
 ## Extracurricular Activities
 - **Computer Club (DNA)**, Mar 2011 to Jan 2016
