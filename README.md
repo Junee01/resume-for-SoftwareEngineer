@@ -4,23 +4,22 @@ This repository discusses about how to make a resume for Software engineer using
 #Resume Sample
 ## Sangjun Park(Junee01)
 72, Seocho-daero 40-gil, Seocho-gu, Seoul, Korea<br />
-(82)10-9271-4555, <span>sangjunpark0203@</span>gmail.com<br />
-<span>blog</span>.naver.com/potter777777
+(82)10-9271-4555, <span>sangjunpark0203@</span>gmail.com, <span>blog</span>.naver.com/potter777777
 
 ## EDUCATION
 - ***B.A. Computer Engineering, Dongguk University(seoul, korea)***, 2017
 
 ## WORK EXPERIENCE
-**INNOBOOST**, Sep 2016 to Now
+**INNOBOOST**, Sep 2016 to Now<br />
 **Web Publisher**, Freelancer(Part-time)
 - created web pages for AD Parameters
 - software maintenance
-
-**UNIAD**, May 2016 to Jul 2016
+<br />
+**UNIAD**, May 2016 to Jul 2016<br />
 **Web Developer**, Intern
 - scraped meal-plan information from University web sites
-
-**THINKWARE**, Jun 2015 to Aug 2015
+<br />
+**THINKWARE**, Jun 2015 to Aug 2015<br />
 **Internship**
 - converted car-navigation data to pedestrian's
 
@@ -40,13 +39,13 @@ This repository discusses about how to make a resume for Software engineer using
 **Japanese** : Basic Level(writing, reading, listening, speaking)
 
 ## HONORS AND AWARDS
-**Creative Contents c3**, 3rd Prize, Jan 2016
+**Creative Contents c3**, 3rd Prize, Jan 2016<br />
 **Computer Science Design Competition**, 2nd Prize, Dec 2015
 
 ## EXTRACURRICULAR ACTIVITIES
-**Computer Club (DNA)**, Mar 2011 to Jan 2016
-**TA in Code School (Open College)**, Dec 2015 to Mar 2016
-**Volunteer teaching Korean to foreigners (Haram)**, Sep 2014 to Aug 2015
-**Mentoring Program (Jump Hackers)**, Sep 2014 to Oct 2014
-**Auction house helper (WeAJa)**, Oct 2014 to Oct 2014
+**Computer Club (DNA)**, Mar 2011 to Jan 2016<br />
+**TA in Code School (Open College)**, Dec 2015 to Mar 2016<br />
+**Volunteer teaching Korean to foreigners (Haram)**, Sep 2014 to Aug 2015<br />
+**Mentoring Program (Jump Hackers)**, Sep 2014 to Oct 2014<br />
+**Auction house helper (WeAJa)**, Oct 2014 to Oct 2014<br />
 **Military Service (Defense Communication Command)**, Jan 2012 to Oct 2013
