@@ -55,3 +55,12 @@ This repository discusses about how to make a resume for Software engineer using
 **Mentoring Program (Jump Hackers)**, Sep 2014 to Oct 2014<br />
 **Auction house helper (WeAJa)**, Oct 2014 to Oct 2014<br />
 **Military Service (Defense Communication Command)**, Jan 2012 to Oct 2013
+
+# 마크다운으로 소프트웨어 엔지니어 이력서 작성하는 방법(한글 번역)
+ 이 레파지토리는 소프트웨어 엔지니어가 마크다운으로 이력서를 작성하는 방법에 대한 내용을 다루고있다. 이력서에는 여러 종류가 있다. 하지만 나는 Markdown 언어로 작성하는 것에 대한 샘플을 만들었다. 이 샘플은 어느 회사에 어떤 포지션으로 지원을 하더라도 매우 유용하게 사용될 거라고 생각한다. 화려하고 독창적인 이력서도 물론 매력적이다. 하지만 포트폴리오가 아닌 이력서는 때때로 간결할 필요가 있다. 그러므로 나는 소프트웨어 엔지니어라면 이 형태의 이력서를 추천한다.<br />
+
+'resume-for-SoftwareEngineer'는 총 세 가지 파일로 구성되어 있다. 만약 resumeMD.md를 마크다운 언어를 지원하는 페이지에서 열어본다면, 컴파일된 결과물을 확인할 수 있을 것이다. txt파일은 원본이며, github에서 md파일을 자동 컴파일하여 보여주기 때문에 md파일은 양식에 맞춰진 결과물을 확인가능하다.<br />
+
+1. Readme.md
+2. resumeMD.txt(Original file)
+3. resumeMD.md
