@@ -1,12 +1,11 @@
 # Resume for software engineer using Markdown.
 This repository discusses about how to make a resume for Software engineer using Markdown. There are many kinds of resume but I created a sample resume written by 'Markdown'. I think this sample will be useful for any positions within any company. A colorful and creative resume is also attractive. However resume(non-portfolio) need to be concise at times. Therefore I recommend this type of resume to software engineers.
 
-'resume-for-SoftwareEngineer' consists of three files.<br />
+'resume-for-SoftwareEngineer' consists of three files. If you compile resumeMD.md then you can find a result on github.<br />
 
 1. Readme.md
 2. resumeMD.txt(Original file)
-3. resumeMD.md<br />
-If you compile resumeMD.md then you can find a result on github.
+3. resumeMD.md
 
 #Resume Sample
 ## Sangjun Park(Junee01)
