@@ -5,7 +5,7 @@ This repository discusses about how to make a resume for Software engineer using
 
 1. Readme.md
 2. resumeMD.txt(Original file)
-3. resumeMD.md.
+3. resumeMD.md<br />
 If you compile resumeMD.md then you can find a result on github.
 
 #Resume Sample
