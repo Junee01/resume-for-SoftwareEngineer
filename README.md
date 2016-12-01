@@ -10,21 +10,21 @@ This repository discusses about how to make a resume for Software engineer using
 - ***B.A. Computer Engineering, Dongguk University(seoul, korea)***, 2017
 
 ## WORK EXPERIENCE
-**INNOBOOST**, Sep 2016 to Now<br />
+***INNOBOOST***, Sep 2016 to Now<br />
 **Web Publisher**, Freelancer(Part-time)
 - created web pages for AD Parameters
 - software maintenance<br />
 
-**UNIAD**, May 2016 to Jul 2016<br />
+***UNIAD***, May 2016 to Jul 2016<br />
 **Web Developer**, Intern
 - scraped meal-plan information from University web sites<br />
 
-**THINKWARE**, Jun 2015 to Aug 2015<br />
+***THINKWARE***, Jun 2015 to Aug 2015<br />
 **Internship**
 - converted car-navigation data to pedestrian's
 
 ##PUBLICATIONS
-- Park, Sangjun, "Web Scraping with Nokogiri" (2016), GitBook
+- Park Sangjun(Junee01), ***"Web Scraping with Nokogiri"*** (2016), GitBook
  
 ## SKILLS
 **Programming Language** : C, C++, C#, Java, JavaScript, Ruby, Python, HTML, CSS, SQL<br />
