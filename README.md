@@ -13,12 +13,12 @@ This repository discusses about how to make a resume for Software engineer using
 **INNOBOOST**, Sep 2016 to Now<br />
 **Web Publisher**, Freelancer(Part-time)
 - created web pages for AD Parameters
-- software maintenance
-<br />
+- software maintenance<br />
+
 **UNIAD**, May 2016 to Jul 2016<br />
 **Web Developer**, Intern
-- scraped meal-plan information from University web sites
-<br />
+- scraped meal-plan information from University web sites<br />
+
 **THINKWARE**, Jun 2015 to Aug 2015<br />
 **Internship**
 - converted car-navigation data to pedestrian's
