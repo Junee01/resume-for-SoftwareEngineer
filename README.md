@@ -64,3 +64,52 @@ This repository discusses about how to make a resume for Software engineer using
 1. Readme.md
 2. resumeMD.txt(Original file)
 3. resumeMD.md
+
+#이력서 샘플
+## 박상준(Junee01)
+대한민국 서울시 서초구 서초대로40길 72<br />
+(82)10-9271-4555, <span>sangjunpark0203@</span>gmail.com, <span>blog</span>.naver.com/potter777777
+
+## 교육 및 학위
+- ***2017년 2월 동국대학교(서울) 컴퓨터공학과 졸업예정.***
+
+## 경력사항 및 인턴
+***주식회사 이노부스트***, 2016년 9월 ~ 현재<br />
+**웹 퍼블리셔**, 프리랜서(아르바이트)
+- 전문제약 물품 및 회사 광고를 위한 FrontEnd 작업
+- 기존의 서비스 및 프로그램 유지보수작업<br />
+
+***유나이어드***, 2016년 5월 ~ 7월<br />
+**웹 개발자**, 인턴
+- 여러 대학 홈페이지에서 제공되는 학식정보 크롤링 작업<br />
+
+***주식회사 팅크웨어***, 2015년 6월 ~ 8월<br />
+**현장실습**, 인턴
+- 차량용 네비게이션 데이터를 보행자용으로 전환하는 작업
+
+##출판 기록
+- Park Sangjun(Junee01), ***"Web Scraping with Nokogiri"*** (2016), 깃북
+ 
+## 보유기술
+**프로그래밍 언어** : C, C++, C#, Java, JavaScript, Ruby, Python, HTML, CSS, SQL<br />
+**오픈소스 경험** : Ruby on Rails, Linux(Ubuntu, CentOS), Mysql, Bootstrap, Qt, jQuery<br />
+**포트폴리오(URL)**
+- <span>portfolio-junee01</span>.herokuapp.com/projects
+- <span>junee01-forum</span>.herokuapp.com
+
+## 언어
+**한국어** : 원어민 수준<br />
+**영어** : 비즈니스 레벨(쓰기, 읽기, 듣기), 기초 레벨(말하기)<br />
+**일본어** : 기초 레벨(쓰기, 읽기, 듣기, 말하기)
+
+## 수상경력
+**Creative Contents c3**, 동상, 2016년 2월<br />
+**Computer Science Design Competition**, 우수상, 2015년 12월
+
+## 대외활동 및 동아리 경험
+**컴퓨터 동아리 (DNA)**, 2011년 3월 ~ 2016년 2월<br />
+**코드스쿨 조교 (Open College)**, 2015년 12월 ~ 2016년 3월<br />
+**한글교육 봉사활동 (Haram)**, 2014년 9월 ~ 2015년 8월<br />
+**멘토링 프로그램 멘토 (Jump Hackers)**, 2014년 9월 ~ 2014년 10월<br />
+**경매 도우미 (WeAJa)**, 2014년 10월<br />
+**군대 (Defense Communication Command)**, 2012년 1월 ~ 2013년 10월<br />
