@@ -1,0 +1,41 @@
+#RESUME
+
+##Sangjun Park
+72, Seocho-daero 40-gil, Seocho-gu, Seoul, Korea<br>
++82-10-9271-4555, sangjunpark0203@gmail.com, potter777777.blog.me
+
+##EDUCATION
+***B.A. Computer Engineering, Dongguk University(Seoul, Korea), 2017***<br>
+***Bulgok High School(Bundan-gu, Korea), 2009***
+
+##WORK EXPERIENCE
+**INNOBOOST**, Sep 2016 to Dec 2016<br>
+***Part time***, *IT Team, Project : Coding using VEEVA CRM Platform*
+
+**UNIAD**, May 2016 to Jul 2016<br>
+***Intern***, *Developer Department, Project : Web Scraping meal plan information from UCAN Univs*
+
+**THINKWARE**, Jun 2015 Aug 2015<br>
+***Intern***, *Road Network Development Team, Project : make navi datas for pedestrian*
+
+##SKILLS
+**Programming Language** : C, Java, Ruby, HTML/CSS/JS, SQL<br>
+**Open Soucre** : RoR, Linux, Mysql, Bootstrap, jQuery<br>
+
+##LANGUAGE
+**Korean** : Native<br>
+**English** : Business Level<br>
+**Japanese** : Basic Level<br>
+**Chinese** : Basic Level
+
+##EXTRACURRICULAR ACTIVITIES
+***Computer Club (D.N.A.)***, Mar 2011 to Jan 2016<br>
+***Code School Academy (Open College)***, Dec 2015 to Mar 2016<br>
+***Volunteer Teaching Korean (Haram)***, Sep 2014 to Aug 2015<br>
+***Volunteer Mentoring Students (Jump Hackers)***, Sep 2014 to Oct 2014<br>
+***Volunteer Helping Auction House (WeStart)***, Oct 2014<br>
+***Military Service***, Jan 2012 to Oct 2013
+
+##HONORS & AWARDS
+**Creative Contents C3 Online**, 3rd Prize, Jan 2016<br>
+**Software Design Competition**, 2nd Prize, Dec 2015
