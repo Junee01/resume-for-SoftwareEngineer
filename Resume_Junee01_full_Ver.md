@@ -16,7 +16,7 @@ github.com/junee01, portfolio-junee01.herokuapp.com/projects
 ***Intern***, *Developer Department, Project : Web Scraping meal plan information from Universities in UCAN*
 
 **THINKWARE**, Jun 2015 Aug 2015<br>
-***Intern***, *Road Network Development Team, Project : make navi datas for pedestrian*
+***Intern***, *Road Network Development Team, Project : Making navi datas for pedestrian*
 
 ##SKILLS
 **Programming Language** : C, Java, Ruby, HTML/CSS/JS, SQL<br>
