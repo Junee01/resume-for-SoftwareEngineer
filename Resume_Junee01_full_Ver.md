@@ -1,4 +1,5 @@
 #Sangjun Park
+---
 72, Seocho-daero 40-gil, Seocho-gu, Seoul, Korea<br>
 +82-10-9271-4555, <span>sangjunpark0203@</span>gmail.com, potter777777.blog.me<br>
 github.com/junee01, portfolio-junee01.herokuapp.com/projects
@@ -23,7 +24,7 @@ github.com/junee01, portfolio-junee01.herokuapp.com/projects
 
 ##LANGUAGE
 **Korean** : Native<br>
-**English** : Business Level(Writing, Reading, Listening), Basic Level(Speaking) | *TOEIC 835*<br>
+**English** : Business Level (Writing, Reading, Listening), Basic Level (Speaking) | *TOEIC 835*<br>
 **Japanese** : Basic Level | *JLPT 3*<br>
 **Chinese** : Basic Level
 
@@ -36,8 +37,8 @@ github.com/junee01, portfolio-junee01.herokuapp.com/projects
 ***Military Service***, Jan 2012 to Oct 2013
 
 ##SCHOLARSHIPS & CERTIFICATES
-**Engineer information Processing**, Jul 2016<br>
-**Creative Contents C3 Online**, 3rd Prize, Jan 2016<br>
-**Software Design Competition**, 2nd Prize, Dec 2015<br>
-**Honorable Entrance Scholarship**, Mar 2010<br>
-**Internship Scholarship**, Aug 2015
+***Engineer information Processing***, Jul 2016<br>
+***Creative Contents C3 Online***, 3rd Prize, Jan 2016<br>
+***Software Design Competition***, 2nd Prize, Dec 2015<br>
+***Honorable Entrance Scholarship***, Mar 2010<br>
+***Internship Scholarship***, Aug 2015
