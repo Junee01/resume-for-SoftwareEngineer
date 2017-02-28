@@ -2,11 +2,11 @@
 
 ##Sangjun Park
 72, Seocho-daero 40-gil, Seocho-gu, Seoul, Korea<br>
-+82-10-9271-4555, sangjunpark0203@gmail.com, potter777777.blog.me
++82-10-9271-4555, <span>sangjunpark0203@</span>gmail.com, potter777777.blog.me
 
 ##EDUCATION
-***B.A. Computer Engineering, Dongguk University(Seoul, Korea), 2017***<br>
-***Bulgok High School(Bundan-gu, Korea), 2009***
+***B.A. Computer Engineering, Dongguk University(Seoul, Korea), Jan 2017***<br>
+***Bulgok High School(Bundan-gu, Korea), Jan 2009***
 
 ##WORK EXPERIENCE
 **INNOBOOST**, Sep 2016 to Dec 2016<br>
@@ -20,12 +20,12 @@
 
 ##SKILLS
 **Programming Language** : C, Java, Ruby, HTML/CSS/JS, SQL<br>
-**Open Soucre** : RoR, Linux, Mysql, Bootstrap, jQuery<br>
+**Open Soucre** : RoR, Linux, Mysql, Bootstrap, jQuery
 
 ##LANGUAGE
 **Korean** : Native<br>
-**English** : Business Level<br>
-**Japanese** : Basic Level<br>
+**English** : Business Level, *TOEIC 835*<br>
+**Japanese** : Basic Level, *JLPT 3*<br>
 **Chinese** : Basic Level
 
 ##EXTRACURRICULAR ACTIVITIES
